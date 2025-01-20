@@ -3,7 +3,7 @@
 ## 📚 Part-Time Degree in Software Engineering at UTM 👩‍🎓
 ## 💡 Bio: Interested in growing my career, which I believe to be successful, Need to come out of my comfort zone. 
 ## ✨ Want to know more about me? Check out my eportfolio and may your wish be granted ✨
-## 🎨 Portfolio :  
+## 🎨 Portfolio : https://norsuhadahamran.github.io/Portfolio.Github/ 
 
 ## [![Share on LinkedIn](https://img.shields.io/badge/-share%20on%20linkedin-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/feed/?shareActive=true&text=)
 <!-- Place this tag where you want the button to render. -->
