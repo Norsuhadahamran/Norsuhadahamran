@@ -1,4 +1,4 @@
-## Hi [https://www.pinterest.com/pin/hello-hi-gif-hello-hi-duck-discover-share-gifs--657384876843508458/](https://pin.it/5YXyNqf7U) My name is Norsuhadah Amran
+## Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Open%20Hands.png" alt="Smiling Face with Open Hands" width="25" height="25" /> My name is Norsuhadah Amran
 ## 👩‍🔧 Work as Senior Technician at Plexus Islandview
 ## 📚 Part-Time Degree in Software Engineering at UTM 👩‍🎓
 ## 💡 Bio: Interested in growing my career, which I believe to be successful, Need to come out of my comfort zone. 
