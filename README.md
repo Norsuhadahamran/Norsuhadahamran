@@ -9,7 +9,7 @@
 
 
 ##✨ Want to know more about me? Check out my eportfolio and may your wish be granted ✨##
-** 🎨 Portfolio : https://norsuhadahamran.github.io/Portfolio.Github/** 
+**🎨 Portfolio : https://norsuhadahamran.github.io/Portfolio.Github/** 
 
 ## [![Share on LinkedIn](https://img.shields.io/badge/-share%20on%20linkedin-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/feed/?shareActive=true&text=)
 <!-- Place this tag where you want the button to render. -->
