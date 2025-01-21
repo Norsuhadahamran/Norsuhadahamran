@@ -11,7 +11,8 @@
 ## Want to know more about me? Check out my eportfolio and may your wish be granted <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" /> ##
 **🎨 Portfolio : https://norsuhadahamran.github.io/Portfolio.Github/** 
 
-**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20Decoration.png" alt="Heart Decoration" width="25" height="25" />Social**
+** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20Decoration.png" alt="Heart Decoration" width="25" height="25" />Social**
+
 **[![Share on LinkedIn](https://img.shields.io/badge/-share%20on%20linkedin-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/feed/?shareActive=true&text=)**
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/buttons" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-size="large" aria-label="Follow @buttons on GitHub">Follow @buttons</a>
