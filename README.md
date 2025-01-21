@@ -3,9 +3,11 @@
 ## Bachelor in Software Engineering  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" alt="Woman Technologist" width="25" height="25" />  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Student.png" alt="Woman Student" width="25" height="25" />
 
 **An aspiring software developer. Though I am still learning, I've always been passionate about technology and coding.**
-**“Coffee lover <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="25" height="25" /> who builds apps by day and games by night ?.”
+**“Coffee lover <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="25" height="25" /> who builds apps by day and games by night ?.”**
 
-## ✨ Want to know more about me? Check out my eportfolio and may your wish be granted ✨
+** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe Showing Europe-Africa" width="25" height="25" />I'm based in Penang, Malaysia**
+
+**✨ Want to know more about me? Check out my eportfolio and may your wish be granted ✨**
 ## 🎨 Portfolio : https://norsuhadahamran.github.io/Portfolio.Github/ 
 
 ## [![Share on LinkedIn](https://img.shields.io/badge/-share%20on%20linkedin-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/feed/?shareActive=true&text=)
