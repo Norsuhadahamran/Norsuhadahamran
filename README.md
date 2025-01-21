@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi https://www.pinterest.com/pin/hello-hi-gif-hello-hi-duck-discover-share-gifs--657384876843508458/ My name is Norsuhadah Amran
 ## 👩‍🔧 Work as Senior Technician at Plexus Islandview
 ## 📚 Part-Time Degree in Software Engineering at UTM 👩‍🎓
 ## 💡 Bio: Interested in growing my career, which I believe to be successful, Need to come out of my comfort zone. 
