@@ -13,7 +13,7 @@
 
 
 ## Want to know more about me? Check out my eportfolio and may your wish be granted <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" /> ##
-**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Alembic.png" alt="Alembic" width="25" height="25" /> Portfolio : [[https://norsuhadahamran.github.io/Portfolio.Github](https://norsuhadahamran.github.io/e-portfolio/](https://github.com/Norsuhadahamran/E-portfolio.git))/** 
+**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Alembic.png" alt="Alembic" width="25" height="25" /> Portfolio :[ [[https://norsuhadahamran.github.io/Portfolio.Github](https://norsuhadahamran.github.io/e-portfolio/](https://github.com/Norsuhadahamran/E-portfolio.git))/](https://github.com/Norsuhadahamran/E-portfolio.git)** 
 
 **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20Decoration.png" alt="Heart Decoration" width="25" height="25" />Social**
 
