@@ -16,7 +16,7 @@ An aspiring software developer. Though I am still learning, I've always been pas
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Telephone Receiver" width="25" height="25" /> Reach me on:
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Folder.png" alt="File Folder" width="25" height="25" />:
-https://github.com/Norsuhadahamran/PORTFOLIO.git
+https://norsuhadahamran.github.io/GITHUB-E-PORTFOLIO/
 
 
 **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" height="25" /> intansuhadahamran97@gmail.com**
